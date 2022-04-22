@@ -1,0 +1,39 @@
+body{
+    background-size: cover;
+}
+.Dj{
+    margin-top: 0px;
+    font-size:25px;
+    width:100%; 
+    color: black;
+    font-weight: 900;
+}
+
+.Size{
+    font-size:17px;
+    font-weight: bold;
+}
+
+b{
+    font-weight: bolder;
+}
+
+img{
+    width: 200px;
+    border-radius: 200px;
+}
+#SpeedBoi{
+    float: left;
+}
+#VolumeBoi{
+    float: right;
+}
+
+button{
+    width: 90px;
+    height:40px;
+}
+
+canvas{
+    border: 5px groove #ffffff;
+}
